@@ -1,0 +1,394 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>AlBarilWindow</RootNamespace>
+    <AssemblyName>AlBarilWindow</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AlBarikMall">
+      <HintPath>..\..\AlBarikMall\AlBarikMall\bin\Debug\AlBarikMall.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ObjectHandler.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UI\AdminUI\AddAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\AdminUI\AddAdmin.Designer.cs">
+      <DependentUpon>AddAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\AdminUI\AddAmbassador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\AdminUI\AddAmbassador.Designer.cs">
+      <DependentUpon>AddAmbassador.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\AdminUI\AddShops.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\AdminUI\AddShops.Designer.cs">
+      <DependentUpon>AddShops.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\AdminUI\AdminMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\AdminUI\AdminMenu.Designer.cs">
+      <DependentUpon>AdminMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\AdminUI\ChangeCnic.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\AdminUI\ChangeCnic.Designer.cs">
+      <DependentUpon>ChangeCnic.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\AdminUI\ChangePassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\AdminUI\ChangePassword.Designer.cs">
+      <DependentUpon>ChangePassword.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\AdminUI\ChangeProfile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\AdminUI\ChangeProfile.Designer.cs">
+      <DependentUpon>ChangeProfile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\AdminUI\SeeAmbassador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\AdminUI\SeeAmbassador.Designer.cs">
+      <DependentUpon>SeeAmbassador.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\AdminUI\SeeProfitOrLoss.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\AdminUI\SeeProfitOrLoss.Designer.cs">
+      <DependentUpon>SeeProfitOrLoss.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Ambassador1\AddEmployeeAmbassador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Ambassador1\AddEmployeeAmbassador.Designer.cs">
+      <DependentUpon>AddEmployeeAmbassador.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Ambassador1\AmbassadorMian.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Ambassador1\AmbassadorMian.Designer.cs">
+      <DependentUpon>AmbassadorMian.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Ambassador1\FeedbackAmbassador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Ambassador1\FeedbackAmbassador.Designer.cs">
+      <DependentUpon>FeedbackAmbassador.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Ambassador1\ProductManager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Ambassador1\ProductManager.Designer.cs">
+      <DependentUpon>ProductManager.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Ambassador1\SeeAnnouncement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Ambassador1\SeeAnnouncement.Designer.cs">
+      <DependentUpon>SeeAnnouncement.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Ambassador1\SeeSalesAmbassador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Ambassador1\SeeSalesAmbassador.Designer.cs">
+      <DependentUpon>SeeSalesAmbassador.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Custome\Addfeedback.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Custome\Addfeedback.Designer.cs">
+      <DependentUpon>Addfeedback.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Custome\Bill.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Custome\Bill.Designer.cs">
+      <DependentUpon>Bill.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Custome\Buy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Custome\Buy.Designer.cs">
+      <DependentUpon>Buy.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Custome\ChangeCnicCustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Custome\ChangeCnicCustomer.Designer.cs">
+      <DependentUpon>ChangeCnicCustomer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Custome\ChangePassCustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Custome\ChangePassCustomer.Designer.cs">
+      <DependentUpon>ChangePassCustomer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Custome\CPCustomer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Custome\CPCustomer.Designer.cs">
+      <DependentUpon>CPCustomer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Custome\CustomerMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Custome\CustomerMenu.Designer.cs">
+      <DependentUpon>CustomerMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Custome\TransactionHistory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Custome\TransactionHistory.Designer.cs">
+      <DependentUpon>TransactionHistory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Manager1\CalculateTotalFare.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Manager1\CalculateTotalFare.Designer.cs">
+      <DependentUpon>CalculateTotalFare.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Manager1\ChangeCnicMAnager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Manager1\ChangeCnicMAnager.Designer.cs">
+      <DependentUpon>ChangeCnicMAnager.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Manager1\ChangePassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Manager1\ChangePassword.Designer.cs">
+      <DependentUpon>ChangePassword.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Manager1\ChangeProfile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Manager1\ChangeProfile.Designer.cs">
+      <DependentUpon>ChangeProfile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Manager1\EmployeeManager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Manager1\EmployeeManager.Designer.cs">
+      <DependentUpon>EmployeeManager.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Manager1\GiveAnnouncement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Manager1\GiveAnnouncement.Designer.cs">
+      <DependentUpon>GiveAnnouncement.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Manager1\ManagerMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Manager1\ManagerMenu.Designer.cs">
+      <DependentUpon>ManagerMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Manager1\ProfitManager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Manager1\ProfitManager.Designer.cs">
+      <DependentUpon>ProfitManager.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Manager1\SeeFeedback.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Manager1\SeeFeedback.Designer.cs">
+      <DependentUpon>SeeFeedback.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Manager1\ShowAmbassadorManager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Manager1\ShowAmbassadorManager.Designer.cs">
+      <DependentUpon>ShowAmbassadorManager.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\SignInSignUp\SignIn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\SignInSignUp\SignIn.Designer.cs">
+      <DependentUpon>SignIn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\SignInSignUp\SignUp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\SignInSignUp\SignUp.Designer.cs">
+      <DependentUpon>SignUp.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="UI\AdminUI\AddAdmin.resx">
+      <DependentUpon>AddAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\AdminUI\AddAmbassador.resx">
+      <DependentUpon>AddAmbassador.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\AdminUI\AddShops.resx">
+      <DependentUpon>AddShops.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\AdminUI\AdminMenu.resx">
+      <DependentUpon>AdminMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\AdminUI\ChangeCnic.resx">
+      <DependentUpon>ChangeCnic.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\AdminUI\ChangePassword.resx">
+      <DependentUpon>ChangePassword.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\AdminUI\ChangeProfile.resx">
+      <DependentUpon>ChangeProfile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\AdminUI\SeeAmbassador.resx">
+      <DependentUpon>SeeAmbassador.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\AdminUI\SeeProfitOrLoss.resx">
+      <DependentUpon>SeeProfitOrLoss.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Ambassador1\AddEmployeeAmbassador.resx">
+      <DependentUpon>AddEmployeeAmbassador.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Ambassador1\AmbassadorMian.resx">
+      <DependentUpon>AmbassadorMian.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Ambassador1\FeedbackAmbassador.resx">
+      <DependentUpon>FeedbackAmbassador.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Ambassador1\ProductManager.resx">
+      <DependentUpon>ProductManager.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Ambassador1\SeeAnnouncement.resx">
+      <DependentUpon>SeeAnnouncement.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Ambassador1\SeeSalesAmbassador.resx">
+      <DependentUpon>SeeSalesAmbassador.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Custome\Addfeedback.resx">
+      <DependentUpon>Addfeedback.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Custome\Bill.resx">
+      <DependentUpon>Bill.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Custome\Buy.resx">
+      <DependentUpon>Buy.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Custome\ChangeCnicCustomer.resx">
+      <DependentUpon>ChangeCnicCustomer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Custome\ChangePassCustomer.resx">
+      <DependentUpon>ChangePassCustomer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Custome\CPCustomer.resx">
+      <DependentUpon>CPCustomer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Custome\CustomerMenu.resx">
+      <DependentUpon>CustomerMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Custome\TransactionHistory.resx">
+      <DependentUpon>TransactionHistory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Manager1\CalculateTotalFare.resx">
+      <DependentUpon>CalculateTotalFare.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Manager1\ChangeCnicMAnager.resx">
+      <DependentUpon>ChangeCnicMAnager.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Manager1\ChangePassword.resx">
+      <DependentUpon>ChangePassword.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Manager1\ChangeProfile.resx">
+      <DependentUpon>ChangeProfile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Manager1\EmployeeManager.resx">
+      <DependentUpon>EmployeeManager.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Manager1\GiveAnnouncement.resx">
+      <DependentUpon>GiveAnnouncement.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Manager1\ManagerMenu.resx">
+      <DependentUpon>ManagerMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Manager1\ProfitManager.resx">
+      <DependentUpon>ProfitManager.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Manager1\SeeFeedback.resx">
+      <DependentUpon>SeeFeedback.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Manager1\ShowAmbassadorManager.resx">
+      <DependentUpon>ShowAmbassadorManager.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\SignInSignUp\SignIn.resx">
+      <DependentUpon>SignIn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\SignInSignUp\SignUp.resx">
+      <DependentUpon>SignUp.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

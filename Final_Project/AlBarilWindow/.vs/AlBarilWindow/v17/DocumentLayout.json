@@ -1,0 +1,1335 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|e:\\study\\2nd semester\\db\\2023-cs-102\\albarilwindow\\albarilwindow\\ui\\custome\\buy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|solutionrelative:albarilwindow\\ui\\custome\\buy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\albarilwindow\\ui\\custome\\buy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|solutionrelative:albarilwindow\\ui\\custome\\buy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\albarilwindow\\ui\\custome\\changecniccustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|solutionrelative:albarilwindow\\ui\\custome\\changecniccustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\albarilwindow\\ui\\custome\\bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|solutionrelative:albarilwindow\\ui\\custome\\bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\albarilwindow\\ui\\custome\\customermenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|solutionrelative:albarilwindow\\ui\\custome\\customermenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\albarilwindow\\ui\\ambassador1\\addemployeeambassador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|solutionrelative:albarilwindow\\ui\\ambassador1\\addemployeeambassador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\albarilwindow\\ui\\ambassador1\\addemployeeambassador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|solutionrelative:albarilwindow\\ui\\ambassador1\\addemployeeambassador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\albarilwindow\\ui\\ambassador1\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|solutionrelative:albarilwindow\\ui\\ambassador1\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\albarilwindow\\ui\\ambassador1\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|solutionrelative:albarilwindow\\ui\\ambassador1\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\albarilwindow\\ui\\ambassador1\\ambassadormian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|solutionrelative:albarilwindow\\ui\\ambassador1\\ambassadormian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\albarilwindow\\ui\\manager1\\calculatetotalfare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|solutionrelative:albarilwindow\\ui\\manager1\\calculatetotalfare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\albarilwindow\\ui\\manager1\\employeemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|solutionrelative:albarilwindow\\ui\\manager1\\employeemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|e:\\study\\2nd semester\\db\\2023-cs-102\\albarilwindow\\albarilwindow\\ui\\manager1\\employeemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|solutionrelative:albarilwindow\\ui\\manager1\\employeemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\albarilwindow\\ui\\manager1\\managermenu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|solutionrelative:albarilwindow\\ui\\manager1\\managermenu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\albarilwindow\\ui\\manager1\\managermenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|solutionrelative:albarilwindow\\ui\\manager1\\managermenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\albarilwindow\\ui\\adminui\\seeprofitorloss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|solutionrelative:albarilwindow\\ui\\adminui\\seeprofitorloss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\albarilwindow\\ui\\adminui\\seeprofitorloss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|solutionrelative:albarilwindow\\ui\\adminui\\seeprofitorloss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\albarilwindow\\ui\\adminui\\adminmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|solutionrelative:albarilwindow\\ui\\adminui\\adminmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\albarilwindow\\ui\\adminui\\addambassador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|solutionrelative:albarilwindow\\ui\\adminui\\addambassador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\albarilwindow\\ui\\adminui\\addadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|solutionrelative:albarilwindow\\ui\\adminui\\addadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\albarilwindow\\ui\\adminui\\addadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|solutionrelative:albarilwindow\\ui\\adminui\\addadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\albarilwindow\\objecthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|solutionrelative:albarilwindow\\objecthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\albarilwindow\\ui\\adminui\\addshops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|solutionrelative:albarilwindow\\ui\\adminui\\addshops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\albarilwindow\\ui\\adminui\\addshops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|solutionrelative:albarilwindow\\ui\\adminui\\addshops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\albarilwindow\\ui\\custome\\customermenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|solutionrelative:albarilwindow\\ui\\custome\\customermenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\albarilwindow\\ui\\signinsignup\\signin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|solutionrelative:albarilwindow\\ui\\signinsignup\\signin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\albarilwindow\\ui\\manager1\\giveannouncement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|solutionrelative:albarilwindow\\ui\\manager1\\giveannouncement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\albarilwindow\\ui\\manager1\\giveannouncement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|solutionrelative:albarilwindow\\ui\\manager1\\giveannouncement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\albarilwindow\\ui\\adminui\\seeambassador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|solutionrelative:albarilwindow\\ui\\adminui\\seeambassador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\albarilwindow\\ui\\adminui\\seeambassador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|solutionrelative:albarilwindow\\ui\\adminui\\seeambassador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\albarilwindow\\ui\\custome\\addfeedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|solutionrelative:albarilwindow\\ui\\custome\\addfeedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\albarilwindow\\ui\\custome\\addfeedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|solutionrelative:albarilwindow\\ui\\custome\\addfeedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarikMall\\AlBarikMall\\DL\\Database\\ProductDBDL.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\albarilwindow\\ui\\ambassador1\\ambassadormian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|solutionrelative:albarilwindow\\ui\\ambassador1\\ambassadormian.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarikMall\\AlBarikMall\\DL\\Database\\EmployeeDBDL.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\albarilwindow\\ui\\signinsignup\\signin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|solutionrelative:albarilwindow\\ui\\signinsignup\\signin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\albarilwindow\\ui\\signinsignup\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|solutionrelative:albarilwindow\\ui\\signinsignup\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarikMall\\AlBarikMall\\DL\\Database\\UserDBDL.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\albarilwindow\\ui\\signinsignup\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|solutionrelative:albarilwindow\\ui\\signinsignup\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\albarilwindow\\ui\\manager1\\showambassadormanager.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|solutionrelative:albarilwindow\\ui\\manager1\\showambassadormanager.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\albarilwindow\\ui\\manager1\\showambassadormanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|solutionrelative:albarilwindow\\ui\\manager1\\showambassadormanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\albarilwindow\\ui\\manager1\\showambassadormanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|solutionrelative:albarilwindow\\ui\\manager1\\showambassadormanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\albarilwindow\\ui\\manager1\\seefeedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|solutionrelative:albarilwindow\\ui\\manager1\\seefeedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\albarilwindow\\ui\\manager1\\seefeedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|solutionrelative:albarilwindow\\ui\\manager1\\seefeedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\albarilwindow\\ui\\manager1\\seefeedback.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|solutionrelative:albarilwindow\\ui\\manager1\\seefeedback.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\albarilwindow\\ui\\manager1\\profitmanager.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|solutionrelative:albarilwindow\\ui\\manager1\\profitmanager.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\albarilwindow\\ui\\manager1\\profitmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|solutionrelative:albarilwindow\\ui\\manager1\\profitmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\albarilwindow\\ui\\manager1\\profitmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|solutionrelative:albarilwindow\\ui\\manager1\\profitmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\albarilwindow\\ui\\manager1\\managermenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|solutionrelative:albarilwindow\\ui\\manager1\\managermenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\albarilwindow\\ui\\manager1\\giveannouncement.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|solutionrelative:albarilwindow\\ui\\manager1\\giveannouncement.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\albarilwindow\\ui\\manager1\\employeemanager.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|solutionrelative:albarilwindow\\ui\\manager1\\employeemanager.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\albarilwindow\\ui\\manager1\\changeprofile.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|solutionrelative:albarilwindow\\ui\\manager1\\changeprofile.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\albarilwindow\\ui\\manager1\\changeprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|solutionrelative:albarilwindow\\ui\\manager1\\changeprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\albarilwindow\\ui\\manager1\\changeprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|solutionrelative:albarilwindow\\ui\\manager1\\changeprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\albarilwindow\\ui\\manager1\\changepassword.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|solutionrelative:albarilwindow\\ui\\manager1\\changepassword.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\albarilwindow\\ui\\manager1\\changepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|solutionrelative:albarilwindow\\ui\\manager1\\changepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\albarilwindow\\ui\\manager1\\changepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|solutionrelative:albarilwindow\\ui\\manager1\\changepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\albarilwindow\\ui\\manager1\\changecnicmanager.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|solutionrelative:albarilwindow\\ui\\manager1\\changecnicmanager.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\albarilwindow\\ui\\manager1\\changecnicmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|solutionrelative:albarilwindow\\ui\\manager1\\changecnicmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\albarilwindow\\ui\\manager1\\changecnicmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|solutionrelative:albarilwindow\\ui\\manager1\\changecnicmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\albarilwindow\\ui\\manager1\\calculatetotalfare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|solutionrelative:albarilwindow\\ui\\manager1\\calculatetotalfare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\albarilwindow\\ui\\manager1\\calculatetotalfare.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|solutionrelative:albarilwindow\\ui\\manager1\\calculatetotalfare.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\albarilwindow\\ui\\custome\\cpcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|solutionrelative:albarilwindow\\ui\\custome\\cpcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\albarilwindow\\ui\\custome\\transactionhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|solutionrelative:albarilwindow\\ui\\custome\\transactionhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\albarilwindow\\ui\\custome\\transactionhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|solutionrelative:albarilwindow\\ui\\custome\\transactionhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\albarilwindow\\ui\\custome\\bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|solutionrelative:albarilwindow\\ui\\custome\\bill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\albarilwindow\\ui\\custome\\cpcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|solutionrelative:albarilwindow\\ui\\custome\\cpcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\albarilwindow\\ui\\custome\\changecniccustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|solutionrelative:albarilwindow\\ui\\custome\\changecniccustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\albarilwindow\\ui\\custome\\changepasscustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|solutionrelative:albarilwindow\\ui\\custome\\changepasscustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\albarilwindow\\ui\\custome\\changepasscustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|solutionrelative:albarilwindow\\ui\\custome\\changepasscustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\albarilwindow\\ui\\adminui\\changecnic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|solutionrelative:albarilwindow\\ui\\adminui\\changecnic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\albarilwindow\\ui\\adminui\\changecnic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|solutionrelative:albarilwindow\\ui\\adminui\\changecnic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\albarilwindow\\ui\\adminui\\changepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|solutionrelative:albarilwindow\\ui\\adminui\\changepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\albarilwindow\\ui\\adminui\\changepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|solutionrelative:albarilwindow\\ui\\adminui\\changepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\albarilwindow\\ui\\adminui\\changeprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|solutionrelative:albarilwindow\\ui\\adminui\\changeprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\albarilwindow\\ui\\ambassador1\\seesalesambassador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|solutionrelative:albarilwindow\\ui\\ambassador1\\seesalesambassador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\albarilwindow\\ui\\ambassador1\\seesalesambassador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|solutionrelative:albarilwindow\\ui\\ambassador1\\seesalesambassador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\albarilwindow\\ui\\ambassador1\\seeannouncement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|solutionrelative:albarilwindow\\ui\\ambassador1\\seeannouncement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\albarilwindow\\ui\\ambassador1\\seeannouncement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|solutionrelative:albarilwindow\\ui\\ambassador1\\seeannouncement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\albarilwindow\\ui\\ambassador1\\feedbackambassador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|solutionrelative:albarilwindow\\ui\\ambassador1\\feedbackambassador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\albarilwindow\\ui\\ambassador1\\feedbackambassador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|solutionrelative:albarilwindow\\ui\\ambassador1\\feedbackambassador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\albarilwindow\\ui\\adminui\\adminmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|solutionrelative:albarilwindow\\ui\\adminui\\adminmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\albarilwindow\\ui\\adminui\\changeprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|solutionrelative:albarilwindow\\ui\\adminui\\changeprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\albarilwindow\\ui\\adminui\\addambassador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|solutionrelative:albarilwindow\\ui\\adminui\\addambassador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\albarilwindow\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7F769F2-5CA5-4F96-AFC7-5DEE754756DD}|AlBarilWindow\\AlBarilWindow.csproj|solutionrelative:albarilwindow\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddEmployeeAmbassador.cs",
+              "DocumentMoniker": "E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\AlBarilWindow\\UI\\Ambassador1\\AddEmployeeAmbassador.cs",
+              "RelativeDocumentMoniker": "AlBarilWindow\\UI\\Ambassador1\\AddEmployeeAmbassador.cs",
+              "ToolTip": "E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\AlBarilWindow\\UI\\Ambassador1\\AddEmployeeAmbassador.cs",
+              "RelativeToolTip": "AlBarilWindow\\UI\\Ambassador1\\AddEmployeeAmbassador.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwCEAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2026-06-24T09:44:20.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomerMenu.cs [Design]",
+              "DocumentMoniker": "E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\AlBarilWindow\\UI\\Custome\\CustomerMenu.cs",
+              "RelativeDocumentMoniker": "AlBarilWindow\\UI\\Custome\\CustomerMenu.cs",
+              "ToolTip": "F:\\Waleed\\AlBarilWindow\\AlBarilWindow\\UI\\Custome\\CustomerMenu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2026-06-24T09:44:20.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Bill.cs [Design]",
+              "DocumentMoniker": "E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\AlBarilWindow\\UI\\Custome\\Bill.cs",
+              "RelativeDocumentMoniker": "AlBarilWindow\\UI\\Custome\\Bill.cs",
+              "ToolTip": "F:\\Waleed\\AlBarilWindow\\AlBarilWindow\\UI\\Custome\\Bill.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2026-06-24T09:44:20.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChangeCnicCustomer.cs [Design]",
+              "DocumentMoniker": "E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\AlBarilWindow\\UI\\Custome\\ChangeCnicCustomer.cs",
+              "RelativeDocumentMoniker": "AlBarilWindow\\UI\\Custome\\ChangeCnicCustomer.cs",
+              "ToolTip": "F:\\Waleed\\AlBarilWindow\\AlBarilWindow\\UI\\Custome\\ChangeCnicCustomer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2026-06-24T09:44:20.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Buy.cs [Design]",
+              "DocumentMoniker": "E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\AlBarilWindow\\UI\\Custome\\Buy.cs",
+              "RelativeDocumentMoniker": "AlBarilWindow\\UI\\Custome\\Buy.cs",
+              "ToolTip": "E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\AlBarilWindow\\UI\\Custome\\Buy.cs [Design]",
+              "RelativeToolTip": "AlBarilWindow\\UI\\Custome\\Buy.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T09:44:20.801Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Buy.cs",
+              "DocumentMoniker": "E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\AlBarilWindow\\UI\\Custome\\Buy.cs",
+              "RelativeDocumentMoniker": "AlBarilWindow\\UI\\Custome\\Buy.cs",
+              "ToolTip": "E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\AlBarilWindow\\UI\\Custome\\Buy.cs",
+              "RelativeToolTip": "AlBarilWindow\\UI\\Custome\\Buy.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAYwEkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T09:44:21.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddEmployeeAmbassador.cs [Design]",
+              "DocumentMoniker": "E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\AlBarilWindow\\UI\\Ambassador1\\AddEmployeeAmbassador.cs",
+              "RelativeDocumentMoniker": "AlBarilWindow\\UI\\Ambassador1\\AddEmployeeAmbassador.cs",
+              "ToolTip": "F:\\Waleed\\AlBarilWindow\\AlBarilWindow\\UI\\Ambassador1\\AddEmployeeAmbassador.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2026-06-24T09:44:21.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductManager.cs",
+              "DocumentMoniker": "E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\AlBarilWindow\\UI\\Ambassador1\\ProductManager.cs",
+              "RelativeDocumentMoniker": "AlBarilWindow\\UI\\Ambassador1\\ProductManager.cs",
+              "ToolTip": "E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\AlBarilWindow\\UI\\Ambassador1\\ProductManager.cs",
+              "RelativeToolTip": "AlBarilWindow\\UI\\Ambassador1\\ProductManager.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAawGoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2026-06-24T09:44:21.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductManager.cs [Design]",
+              "DocumentMoniker": "E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\AlBarilWindow\\UI\\Ambassador1\\ProductManager.cs",
+              "RelativeDocumentMoniker": "AlBarilWindow\\UI\\Ambassador1\\ProductManager.cs",
+              "ToolTip": "F:\\Waleed\\AlBarilWindow\\AlBarilWindow\\UI\\Ambassador1\\ProductManager.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2026-06-24T09:44:21.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AmbassadorMian.cs [Design]",
+              "DocumentMoniker": "E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\AlBarilWindow\\UI\\Ambassador1\\AmbassadorMian.cs",
+              "RelativeDocumentMoniker": "AlBarilWindow\\UI\\Ambassador1\\AmbassadorMian.cs",
+              "ToolTip": "F:\\Waleed\\AlBarilWindow\\AlBarilWindow\\UI\\Ambassador1\\AmbassadorMian.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2026-06-24T09:44:21.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CalculateTotalFare.cs [Design]",
+              "DocumentMoniker": "E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\AlBarilWindow\\UI\\Manager1\\CalculateTotalFare.cs",
+              "RelativeDocumentMoniker": "AlBarilWindow\\UI\\Manager1\\CalculateTotalFare.cs",
+              "ToolTip": "F:\\Waleed\\AlBarilWindow\\AlBarilWindow\\UI\\Manager1\\CalculateTotalFare.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2026-06-24T09:44:21.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EmployeeManager.cs",
+              "DocumentMoniker": "E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\AlBarilWindow\\UI\\Manager1\\EmployeeManager.cs",
+              "RelativeDocumentMoniker": "AlBarilWindow\\UI\\Manager1\\EmployeeManager.cs",
+              "ToolTip": "E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\AlBarilWindow\\UI\\Manager1\\EmployeeManager.cs",
+              "RelativeToolTip": "AlBarilWindow\\UI\\Manager1\\EmployeeManager.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAmwF0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T09:44:21.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ManagerMenu.Designer.cs",
+              "DocumentMoniker": "E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\AlBarilWindow\\UI\\Manager1\\ManagerMenu.Designer.cs",
+              "RelativeDocumentMoniker": "AlBarilWindow\\UI\\Manager1\\ManagerMenu.Designer.cs",
+              "ToolTip": "E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\AlBarilWindow\\UI\\Manager1\\ManagerMenu.Designer.cs",
+              "RelativeToolTip": "AlBarilWindow\\UI\\Manager1\\ManagerMenu.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2026-06-24T09:44:21.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ManagerMenu.cs [Design]",
+              "DocumentMoniker": "E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\AlBarilWindow\\UI\\Manager1\\ManagerMenu.cs",
+              "RelativeDocumentMoniker": "AlBarilWindow\\UI\\Manager1\\ManagerMenu.cs",
+              "ToolTip": "F:\\Waleed\\AlBarilWindow\\AlBarilWindow\\UI\\Manager1\\ManagerMenu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2026-06-24T09:44:21.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SeeProfitOrLoss.cs",
+              "DocumentMoniker": "E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\AlBarilWindow\\UI\\AdminUI\\SeeProfitOrLoss.cs",
+              "RelativeDocumentMoniker": "AlBarilWindow\\UI\\AdminUI\\SeeProfitOrLoss.cs",
+              "ToolTip": "E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\AlBarilWindow\\UI\\AdminUI\\SeeProfitOrLoss.cs",
+              "RelativeToolTip": "AlBarilWindow\\UI\\AdminUI\\SeeProfitOrLoss.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAqwDwAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2026-06-24T09:44:21.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SeeProfitOrLoss.cs [Design]",
+              "DocumentMoniker": "E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\AlBarilWindow\\UI\\AdminUI\\SeeProfitOrLoss.cs",
+              "RelativeDocumentMoniker": "AlBarilWindow\\UI\\AdminUI\\SeeProfitOrLoss.cs",
+              "ToolTip": "F:\\Waleed\\AlBarilWindow\\AlBarilWindow\\UI\\AdminUI\\SeeProfitOrLoss.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2026-06-24T09:44:21.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AdminMenu.cs [Design]",
+              "DocumentMoniker": "E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\AlBarilWindow\\UI\\AdminUI\\AdminMenu.cs",
+              "RelativeDocumentMoniker": "AlBarilWindow\\UI\\AdminUI\\AdminMenu.cs",
+              "ToolTip": "F:\\Waleed\\AlBarilWindow\\AlBarilWindow\\UI\\AdminUI\\AdminMenu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2026-06-24T09:44:21.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AddAmbassador.cs [Design]",
+              "DocumentMoniker": "E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\AlBarilWindow\\UI\\AdminUI\\AddAmbassador.cs",
+              "RelativeDocumentMoniker": "AlBarilWindow\\UI\\AdminUI\\AddAmbassador.cs",
+              "ToolTip": "F:\\Waleed\\AlBarilWindow\\AlBarilWindow\\UI\\AdminUI\\AddAmbassador.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2026-06-24T09:44:21.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AddAdmin.cs",
+              "DocumentMoniker": "E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\AlBarilWindow\\UI\\AdminUI\\AddAdmin.cs",
+              "RelativeDocumentMoniker": "AlBarilWindow\\UI\\AdminUI\\AddAdmin.cs",
+              "ToolTip": "E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\AlBarilWindow\\UI\\AdminUI\\AddAdmin.cs",
+              "RelativeToolTip": "AlBarilWindow\\UI\\AdminUI\\AddAdmin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2026-06-24T09:44:21.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AddAdmin.cs [Design]",
+              "DocumentMoniker": "E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\AlBarilWindow\\UI\\AdminUI\\AddAdmin.cs",
+              "RelativeDocumentMoniker": "AlBarilWindow\\UI\\AdminUI\\AddAdmin.cs",
+              "ToolTip": "F:\\Waleed\\AlBarilWindow\\AlBarilWindow\\UI\\AdminUI\\AddAdmin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2026-06-24T09:44:21.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ObjectHandler.cs",
+              "DocumentMoniker": "E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\AlBarilWindow\\ObjectHandler.cs",
+              "RelativeDocumentMoniker": "AlBarilWindow\\ObjectHandler.cs",
+              "ToolTip": "E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\AlBarilWindow\\ObjectHandler.cs",
+              "RelativeToolTip": "AlBarilWindow\\ObjectHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T09:44:21.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AddShops.cs",
+              "DocumentMoniker": "E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\AlBarilWindow\\UI\\AdminUI\\AddShops.cs",
+              "RelativeDocumentMoniker": "AlBarilWindow\\UI\\AdminUI\\AddShops.cs",
+              "ToolTip": "E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\AlBarilWindow\\UI\\AdminUI\\AddShops.cs",
+              "RelativeToolTip": "AlBarilWindow\\UI\\AdminUI\\AddShops.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAmwDMAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2026-06-24T09:44:21.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AddShops.cs [Design]",
+              "DocumentMoniker": "E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\AlBarilWindow\\UI\\AdminUI\\AddShops.cs",
+              "RelativeDocumentMoniker": "AlBarilWindow\\UI\\AdminUI\\AddShops.cs",
+              "ToolTip": "F:\\Waleed\\AlBarilWindow\\AlBarilWindow\\UI\\AdminUI\\AddShops.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2026-06-24T09:44:21.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "GiveAnnouncement.cs",
+              "DocumentMoniker": "E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\AlBarilWindow\\UI\\Manager1\\GiveAnnouncement.cs",
+              "RelativeDocumentMoniker": "AlBarilWindow\\UI\\Manager1\\GiveAnnouncement.cs",
+              "ToolTip": "E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\AlBarilWindow\\UI\\Manager1\\GiveAnnouncement.cs",
+              "RelativeToolTip": "AlBarilWindow\\UI\\Manager1\\GiveAnnouncement.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAApwBoAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2026-06-24T09:44:21.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CustomerMenu.cs",
+              "DocumentMoniker": "E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\AlBarilWindow\\UI\\Custome\\CustomerMenu.cs",
+              "RelativeDocumentMoniker": "AlBarilWindow\\UI\\Custome\\CustomerMenu.cs",
+              "ToolTip": "E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\AlBarilWindow\\UI\\Custome\\CustomerMenu.cs",
+              "RelativeToolTip": "AlBarilWindow\\UI\\Custome\\CustomerMenu.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAiwEEAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2026-06-24T09:44:21.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "SignIn.cs [Design]",
+              "DocumentMoniker": "E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\AlBarilWindow\\UI\\SignInSignUp\\SignIn.cs",
+              "RelativeDocumentMoniker": "AlBarilWindow\\UI\\SignInSignUp\\SignIn.cs",
+              "ToolTip": "F:\\Waleed\\AlBarilWindow\\AlBarilWindow\\UI\\SignInSignUp\\SignIn.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2026-06-24T09:44:21.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "GiveAnnouncement.cs [Design]",
+              "DocumentMoniker": "E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\AlBarilWindow\\UI\\Manager1\\GiveAnnouncement.cs",
+              "RelativeDocumentMoniker": "AlBarilWindow\\UI\\Manager1\\GiveAnnouncement.cs",
+              "ToolTip": "F:\\Waleed\\AlBarilWindow\\AlBarilWindow\\UI\\Manager1\\GiveAnnouncement.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2026-06-24T09:44:21.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "SeeAmbassador.cs",
+              "DocumentMoniker": "E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\AlBarilWindow\\UI\\AdminUI\\SeeAmbassador.cs",
+              "RelativeDocumentMoniker": "AlBarilWindow\\UI\\AdminUI\\SeeAmbassador.cs",
+              "ToolTip": "E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\AlBarilWindow\\UI\\AdminUI\\SeeAmbassador.cs",
+              "RelativeToolTip": "AlBarilWindow\\UI\\AdminUI\\SeeAmbassador.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2026-06-24T09:44:21.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "SeeAmbassador.cs [Design]",
+              "DocumentMoniker": "E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\AlBarilWindow\\UI\\AdminUI\\SeeAmbassador.cs",
+              "RelativeDocumentMoniker": "AlBarilWindow\\UI\\AdminUI\\SeeAmbassador.cs",
+              "ToolTip": "F:\\Waleed\\AlBarilWindow\\AlBarilWindow\\UI\\AdminUI\\SeeAmbassador.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2026-06-24T09:44:21.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Addfeedback.cs",
+              "DocumentMoniker": "E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\AlBarilWindow\\UI\\Custome\\Addfeedback.cs",
+              "RelativeDocumentMoniker": "AlBarilWindow\\UI\\Custome\\Addfeedback.cs",
+              "ToolTip": "E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\AlBarilWindow\\UI\\Custome\\Addfeedback.cs",
+              "RelativeToolTip": "AlBarilWindow\\UI\\Custome\\Addfeedback.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAlwCcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2026-06-24T09:44:21.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Addfeedback.cs [Design]",
+              "DocumentMoniker": "E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\AlBarilWindow\\UI\\Custome\\Addfeedback.cs",
+              "RelativeDocumentMoniker": "AlBarilWindow\\UI\\Custome\\Addfeedback.cs",
+              "ToolTip": "F:\\Waleed\\AlBarilWindow\\AlBarilWindow\\UI\\Custome\\Addfeedback.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2026-06-24T09:44:21.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "AmbassadorMian.cs",
+              "DocumentMoniker": "E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\AlBarilWindow\\UI\\Ambassador1\\AmbassadorMian.cs",
+              "RelativeDocumentMoniker": "AlBarilWindow\\UI\\Ambassador1\\AmbassadorMian.cs",
+              "ToolTip": "E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\AlBarilWindow\\UI\\Ambassador1\\AmbassadorMian.cs",
+              "RelativeToolTip": "AlBarilWindow\\UI\\Ambassador1\\AmbassadorMian.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAjwB8AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2026-06-24T09:44:21.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ProductDBDL.cs",
+              "DocumentMoniker": "E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarikMall\\AlBarikMall\\DL\\Database\\ProductDBDL.cs",
+              "RelativeDocumentMoniker": "..\\AlBarikMall\\AlBarikMall\\DL\\Database\\ProductDBDL.cs",
+              "ToolTip": "E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarikMall\\AlBarikMall\\DL\\Database\\ProductDBDL.cs",
+              "RelativeToolTip": "..\\AlBarikMall\\AlBarikMall\\DL\\Database\\ProductDBDL.cs",
+              "ViewState": "AQIAAKEAAAAAAAAAAAAjwLEAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T09:44:21.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ShowAmbassadorManager.cs [Design]",
+              "DocumentMoniker": "E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\AlBarilWindow\\UI\\Manager1\\ShowAmbassadorManager.cs",
+              "RelativeDocumentMoniker": "AlBarilWindow\\UI\\Manager1\\ShowAmbassadorManager.cs",
+              "ToolTip": "F:\\Waleed\\AlBarilWindow\\AlBarilWindow\\UI\\Manager1\\ShowAmbassadorManager.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2026-06-24T09:44:21.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "SignIn.cs",
+              "DocumentMoniker": "E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\AlBarilWindow\\UI\\SignInSignUp\\SignIn.cs",
+              "RelativeDocumentMoniker": "AlBarilWindow\\UI\\SignInSignUp\\SignIn.cs",
+              "ToolTip": "E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\AlBarilWindow\\UI\\SignInSignUp\\SignIn.cs",
+              "RelativeToolTip": "AlBarilWindow\\UI\\SignInSignUp\\SignIn.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAEwEgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2026-06-24T09:44:21.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "SignUp.cs",
+              "DocumentMoniker": "E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\AlBarilWindow\\UI\\SignInSignUp\\SignUp.cs",
+              "RelativeDocumentMoniker": "AlBarilWindow\\UI\\SignInSignUp\\SignUp.cs",
+              "ToolTip": "E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\AlBarilWindow\\UI\\SignInSignUp\\SignUp.cs",
+              "RelativeToolTip": "AlBarilWindow\\UI\\SignInSignUp\\SignUp.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAArwDoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2026-06-24T09:44:21.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "SignUp.cs [Design]",
+              "DocumentMoniker": "E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\AlBarilWindow\\UI\\SignInSignUp\\SignUp.cs",
+              "RelativeDocumentMoniker": "AlBarilWindow\\UI\\SignInSignUp\\SignUp.cs",
+              "ToolTip": "F:\\Waleed\\AlBarilWindow\\AlBarilWindow\\UI\\SignInSignUp\\SignUp.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2026-06-24T09:44:21.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "EmployeeDBDL.cs",
+              "DocumentMoniker": "E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarikMall\\AlBarikMall\\DL\\Database\\EmployeeDBDL.cs",
+              "RelativeDocumentMoniker": "..\\AlBarikMall\\AlBarikMall\\DL\\Database\\EmployeeDBDL.cs",
+              "ToolTip": "E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarikMall\\AlBarikMall\\DL\\Database\\EmployeeDBDL.cs",
+              "RelativeToolTip": "..\\AlBarikMall\\AlBarikMall\\DL\\Database\\EmployeeDBDL.cs",
+              "ViewState": "AQIAAIsAAAAAAAAAAAAjwJ0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T09:44:21.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "SeeFeedback.cs",
+              "DocumentMoniker": "E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\AlBarilWindow\\UI\\Manager1\\SeeFeedback.cs",
+              "RelativeDocumentMoniker": "AlBarilWindow\\UI\\Manager1\\SeeFeedback.cs",
+              "ToolTip": "E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\AlBarilWindow\\UI\\Manager1\\SeeFeedback.cs",
+              "RelativeToolTip": "AlBarilWindow\\UI\\Manager1\\SeeFeedback.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2026-06-24T09:44:21.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "SeeFeedback.cs [Design]",
+              "DocumentMoniker": "E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\AlBarilWindow\\UI\\Manager1\\SeeFeedback.cs",
+              "RelativeDocumentMoniker": "AlBarilWindow\\UI\\Manager1\\SeeFeedback.cs",
+              "ToolTip": "F:\\Waleed\\AlBarilWindow\\AlBarilWindow\\UI\\Manager1\\SeeFeedback.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2026-06-24T09:44:21.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "UserDBDL.cs",
+              "DocumentMoniker": "E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarikMall\\AlBarikMall\\DL\\Database\\UserDBDL.cs",
+              "RelativeDocumentMoniker": "..\\AlBarikMall\\AlBarikMall\\DL\\Database\\UserDBDL.cs",
+              "ToolTip": "E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarikMall\\AlBarikMall\\DL\\Database\\UserDBDL.cs",
+              "RelativeToolTip": "..\\AlBarikMall\\AlBarikMall\\DL\\Database\\UserDBDL.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAjwDUAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T09:44:21.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ShowAmbassadorManager.Designer.cs",
+              "DocumentMoniker": "E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\AlBarilWindow\\UI\\Manager1\\ShowAmbassadorManager.Designer.cs",
+              "RelativeDocumentMoniker": "AlBarilWindow\\UI\\Manager1\\ShowAmbassadorManager.Designer.cs",
+              "ToolTip": "E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\AlBarilWindow\\UI\\Manager1\\ShowAmbassadorManager.Designer.cs",
+              "RelativeToolTip": "AlBarilWindow\\UI\\Manager1\\ShowAmbassadorManager.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2026-06-24T09:44:21.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "SeeFeedback.Designer.cs",
+              "DocumentMoniker": "E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\AlBarilWindow\\UI\\Manager1\\SeeFeedback.Designer.cs",
+              "RelativeDocumentMoniker": "AlBarilWindow\\UI\\Manager1\\SeeFeedback.Designer.cs",
+              "ToolTip": "E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\AlBarilWindow\\UI\\Manager1\\SeeFeedback.Designer.cs",
+              "RelativeToolTip": "AlBarilWindow\\UI\\Manager1\\SeeFeedback.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2026-06-24T09:44:21.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ShowAmbassadorManager.cs",
+              "DocumentMoniker": "E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\AlBarilWindow\\UI\\Manager1\\ShowAmbassadorManager.cs",
+              "RelativeDocumentMoniker": "AlBarilWindow\\UI\\Manager1\\ShowAmbassadorManager.cs",
+              "ToolTip": "E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\AlBarilWindow\\UI\\Manager1\\ShowAmbassadorManager.cs",
+              "RelativeToolTip": "AlBarilWindow\\UI\\Manager1\\ShowAmbassadorManager.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAwAwAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2026-06-24T09:44:21.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "ProfitManager.Designer.cs",
+              "DocumentMoniker": "E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\AlBarilWindow\\UI\\Manager1\\ProfitManager.Designer.cs",
+              "RelativeDocumentMoniker": "AlBarilWindow\\UI\\Manager1\\ProfitManager.Designer.cs",
+              "ToolTip": "E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\AlBarilWindow\\UI\\Manager1\\ProfitManager.Designer.cs",
+              "RelativeToolTip": "AlBarilWindow\\UI\\Manager1\\ProfitManager.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2026-06-24T09:44:21.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "GiveAnnouncement.Designer.cs",
+              "DocumentMoniker": "E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\AlBarilWindow\\UI\\Manager1\\GiveAnnouncement.Designer.cs",
+              "RelativeDocumentMoniker": "AlBarilWindow\\UI\\Manager1\\GiveAnnouncement.Designer.cs",
+              "ToolTip": "E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\AlBarilWindow\\UI\\Manager1\\GiveAnnouncement.Designer.cs",
+              "RelativeToolTip": "AlBarilWindow\\UI\\Manager1\\GiveAnnouncement.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2026-06-24T09:44:21.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "ProfitManager.cs [Design]",
+              "DocumentMoniker": "E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\AlBarilWindow\\UI\\Manager1\\ProfitManager.cs",
+              "RelativeDocumentMoniker": "AlBarilWindow\\UI\\Manager1\\ProfitManager.cs",
+              "ToolTip": "F:\\Waleed\\AlBarilWindow\\AlBarilWindow\\UI\\Manager1\\ProfitManager.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2026-06-24T09:44:21.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "ProfitManager.cs",
+              "DocumentMoniker": "E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\AlBarilWindow\\UI\\Manager1\\ProfitManager.cs",
+              "RelativeDocumentMoniker": "AlBarilWindow\\UI\\Manager1\\ProfitManager.cs",
+              "ToolTip": "E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\AlBarilWindow\\UI\\Manager1\\ProfitManager.cs",
+              "RelativeToolTip": "AlBarilWindow\\UI\\Manager1\\ProfitManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2026-06-24T09:44:21.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "ManagerMenu.cs",
+              "DocumentMoniker": "E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\AlBarilWindow\\UI\\Manager1\\ManagerMenu.cs",
+              "RelativeDocumentMoniker": "AlBarilWindow\\UI\\Manager1\\ManagerMenu.cs",
+              "ToolTip": "E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\AlBarilWindow\\UI\\Manager1\\ManagerMenu.cs",
+              "RelativeToolTip": "AlBarilWindow\\UI\\Manager1\\ManagerMenu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2026-06-24T09:44:21.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "EmployeeManager.Designer.cs",
+              "DocumentMoniker": "E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\AlBarilWindow\\UI\\Manager1\\EmployeeManager.Designer.cs",
+              "RelativeDocumentMoniker": "AlBarilWindow\\UI\\Manager1\\EmployeeManager.Designer.cs",
+              "ToolTip": "E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\AlBarilWindow\\UI\\Manager1\\EmployeeManager.Designer.cs",
+              "RelativeToolTip": "AlBarilWindow\\UI\\Manager1\\EmployeeManager.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T09:44:21.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "ChangeProfile.Designer.cs",
+              "DocumentMoniker": "E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\AlBarilWindow\\UI\\Manager1\\ChangeProfile.Designer.cs",
+              "RelativeDocumentMoniker": "AlBarilWindow\\UI\\Manager1\\ChangeProfile.Designer.cs",
+              "ToolTip": "E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\AlBarilWindow\\UI\\Manager1\\ChangeProfile.Designer.cs",
+              "RelativeToolTip": "AlBarilWindow\\UI\\Manager1\\ChangeProfile.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2026-06-24T09:44:21.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "ChangeProfile.cs [Design]",
+              "DocumentMoniker": "E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\AlBarilWindow\\UI\\Manager1\\ChangeProfile.cs",
+              "RelativeDocumentMoniker": "AlBarilWindow\\UI\\Manager1\\ChangeProfile.cs",
+              "ToolTip": "F:\\Waleed\\AlBarilWindow\\AlBarilWindow\\UI\\Manager1\\ChangeProfile.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2026-06-24T09:44:21.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "ChangePassword.Designer.cs",
+              "DocumentMoniker": "E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\AlBarilWindow\\UI\\Manager1\\ChangePassword.Designer.cs",
+              "RelativeDocumentMoniker": "AlBarilWindow\\UI\\Manager1\\ChangePassword.Designer.cs",
+              "ToolTip": "E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\AlBarilWindow\\UI\\Manager1\\ChangePassword.Designer.cs",
+              "RelativeToolTip": "AlBarilWindow\\UI\\Manager1\\ChangePassword.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2026-06-24T09:44:21.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "ChangeCnicMAnager.Designer.cs",
+              "DocumentMoniker": "E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\AlBarilWindow\\UI\\Manager1\\ChangeCnicMAnager.Designer.cs",
+              "RelativeDocumentMoniker": "AlBarilWindow\\UI\\Manager1\\ChangeCnicMAnager.Designer.cs",
+              "ToolTip": "E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\AlBarilWindow\\UI\\Manager1\\ChangeCnicMAnager.Designer.cs",
+              "RelativeToolTip": "AlBarilWindow\\UI\\Manager1\\ChangeCnicMAnager.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2026-06-24T09:44:21.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "CalculateTotalFare.cs",
+              "DocumentMoniker": "E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\AlBarilWindow\\UI\\Manager1\\CalculateTotalFare.cs",
+              "RelativeDocumentMoniker": "AlBarilWindow\\UI\\Manager1\\CalculateTotalFare.cs",
+              "ToolTip": "E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\AlBarilWindow\\UI\\Manager1\\CalculateTotalFare.cs",
+              "RelativeToolTip": "AlBarilWindow\\UI\\Manager1\\CalculateTotalFare.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2026-06-24T09:44:21.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "ChangeProfile.cs",
+              "DocumentMoniker": "E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\AlBarilWindow\\UI\\Manager1\\ChangeProfile.cs",
+              "RelativeDocumentMoniker": "AlBarilWindow\\UI\\Manager1\\ChangeProfile.cs",
+              "ToolTip": "E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\AlBarilWindow\\UI\\Manager1\\ChangeProfile.cs",
+              "RelativeToolTip": "AlBarilWindow\\UI\\Manager1\\ChangeProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2026-06-24T09:44:21.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "ChangePassword.cs [Design]",
+              "DocumentMoniker": "E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\AlBarilWindow\\UI\\Manager1\\ChangePassword.cs",
+              "RelativeDocumentMoniker": "AlBarilWindow\\UI\\Manager1\\ChangePassword.cs",
+              "ToolTip": "F:\\Waleed\\AlBarilWindow\\AlBarilWindow\\UI\\Manager1\\ChangePassword.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2026-06-24T09:44:21.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "ChangePassword.cs",
+              "DocumentMoniker": "E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\AlBarilWindow\\UI\\Manager1\\ChangePassword.cs",
+              "RelativeDocumentMoniker": "AlBarilWindow\\UI\\Manager1\\ChangePassword.cs",
+              "ToolTip": "E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\AlBarilWindow\\UI\\Manager1\\ChangePassword.cs",
+              "RelativeToolTip": "AlBarilWindow\\UI\\Manager1\\ChangePassword.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2026-06-24T09:44:21.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "CalculateTotalFare.Designer.cs",
+              "DocumentMoniker": "E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\AlBarilWindow\\UI\\Manager1\\CalculateTotalFare.Designer.cs",
+              "RelativeDocumentMoniker": "AlBarilWindow\\UI\\Manager1\\CalculateTotalFare.Designer.cs",
+              "ToolTip": "E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\AlBarilWindow\\UI\\Manager1\\CalculateTotalFare.Designer.cs",
+              "RelativeToolTip": "AlBarilWindow\\UI\\Manager1\\CalculateTotalFare.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2026-06-24T09:44:21.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "ChangeCnicMAnager.cs [Design]",
+              "DocumentMoniker": "E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\AlBarilWindow\\UI\\Manager1\\ChangeCnicMAnager.cs",
+              "RelativeDocumentMoniker": "AlBarilWindow\\UI\\Manager1\\ChangeCnicMAnager.cs",
+              "ToolTip": "F:\\Waleed\\AlBarilWindow\\AlBarilWindow\\UI\\Manager1\\ChangeCnicMAnager.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2026-06-24T09:44:21.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "ChangeCnicMAnager.cs",
+              "DocumentMoniker": "E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\AlBarilWindow\\UI\\Manager1\\ChangeCnicMAnager.cs",
+              "RelativeDocumentMoniker": "AlBarilWindow\\UI\\Manager1\\ChangeCnicMAnager.cs",
+              "ToolTip": "E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\AlBarilWindow\\UI\\Manager1\\ChangeCnicMAnager.cs",
+              "RelativeToolTip": "AlBarilWindow\\UI\\Manager1\\ChangeCnicMAnager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2026-06-24T09:44:21.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "CPCustomer.cs [Design]",
+              "DocumentMoniker": "E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\AlBarilWindow\\UI\\Custome\\CPCustomer.cs",
+              "RelativeDocumentMoniker": "AlBarilWindow\\UI\\Custome\\CPCustomer.cs",
+              "ToolTip": "F:\\Waleed\\AlBarilWindow\\AlBarilWindow\\UI\\Custome\\CPCustomer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2026-06-24T09:44:21.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "TransactionHistory.cs",
+              "DocumentMoniker": "E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\AlBarilWindow\\UI\\Custome\\TransactionHistory.cs",
+              "RelativeDocumentMoniker": "AlBarilWindow\\UI\\Custome\\TransactionHistory.cs",
+              "ToolTip": "E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\AlBarilWindow\\UI\\Custome\\TransactionHistory.cs",
+              "RelativeToolTip": "AlBarilWindow\\UI\\Custome\\TransactionHistory.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAnwCEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2026-06-24T09:44:21.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "TransactionHistory.cs [Design]",
+              "DocumentMoniker": "E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\AlBarilWindow\\UI\\Custome\\TransactionHistory.cs",
+              "RelativeDocumentMoniker": "AlBarilWindow\\UI\\Custome\\TransactionHistory.cs",
+              "ToolTip": "F:\\Waleed\\AlBarilWindow\\AlBarilWindow\\UI\\Custome\\TransactionHistory.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2026-06-24T09:44:21.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "Bill.cs",
+              "DocumentMoniker": "E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\AlBarilWindow\\UI\\Custome\\Bill.cs",
+              "RelativeDocumentMoniker": "AlBarilWindow\\UI\\Custome\\Bill.cs",
+              "ToolTip": "E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\AlBarilWindow\\UI\\Custome\\Bill.cs",
+              "RelativeToolTip": "AlBarilWindow\\UI\\Custome\\Bill.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAArwCUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2026-06-24T09:44:21.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "CPCustomer.cs",
+              "DocumentMoniker": "E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\AlBarilWindow\\UI\\Custome\\CPCustomer.cs",
+              "RelativeDocumentMoniker": "AlBarilWindow\\UI\\Custome\\CPCustomer.cs",
+              "ToolTip": "E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\AlBarilWindow\\UI\\Custome\\CPCustomer.cs",
+              "RelativeToolTip": "AlBarilWindow\\UI\\Custome\\CPCustomer.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAvwCQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2026-06-24T09:44:21.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "ChangeCnicCustomer.cs",
+              "DocumentMoniker": "E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\AlBarilWindow\\UI\\Custome\\ChangeCnicCustomer.cs",
+              "RelativeDocumentMoniker": "AlBarilWindow\\UI\\Custome\\ChangeCnicCustomer.cs",
+              "ToolTip": "E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\AlBarilWindow\\UI\\Custome\\ChangeCnicCustomer.cs",
+              "RelativeToolTip": "AlBarilWindow\\UI\\Custome\\ChangeCnicCustomer.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAewBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2026-06-24T09:44:21.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "ChangePassCustomer.cs",
+              "DocumentMoniker": "E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\AlBarilWindow\\UI\\Custome\\ChangePassCustomer.cs",
+              "RelativeDocumentMoniker": "AlBarilWindow\\UI\\Custome\\ChangePassCustomer.cs",
+              "ToolTip": "E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\AlBarilWindow\\UI\\Custome\\ChangePassCustomer.cs",
+              "RelativeToolTip": "AlBarilWindow\\UI\\Custome\\ChangePassCustomer.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAArwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2026-06-24T09:44:21.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "ChangePassCustomer.cs [Design]",
+              "DocumentMoniker": "E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\AlBarilWindow\\UI\\Custome\\ChangePassCustomer.cs",
+              "RelativeDocumentMoniker": "AlBarilWindow\\UI\\Custome\\ChangePassCustomer.cs",
+              "ToolTip": "F:\\Waleed\\AlBarilWindow\\AlBarilWindow\\UI\\Custome\\ChangePassCustomer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2026-06-24T09:44:21.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "ChangeCnic.cs",
+              "DocumentMoniker": "E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\AlBarilWindow\\UI\\AdminUI\\ChangeCnic.cs",
+              "RelativeDocumentMoniker": "AlBarilWindow\\UI\\AdminUI\\ChangeCnic.cs",
+              "ToolTip": "E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\AlBarilWindow\\UI\\AdminUI\\ChangeCnic.cs",
+              "RelativeToolTip": "AlBarilWindow\\UI\\AdminUI\\ChangeCnic.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAArwCkAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2026-06-24T09:44:21.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "ChangeCnic.cs [Design]",
+              "DocumentMoniker": "E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\AlBarilWindow\\UI\\AdminUI\\ChangeCnic.cs",
+              "RelativeDocumentMoniker": "AlBarilWindow\\UI\\AdminUI\\ChangeCnic.cs",
+              "ToolTip": "F:\\Waleed\\AlBarilWindow\\AlBarilWindow\\UI\\AdminUI\\ChangeCnic.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2026-06-24T09:44:21.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "ChangePassword.cs [Design]",
+              "DocumentMoniker": "E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\AlBarilWindow\\UI\\AdminUI\\ChangePassword.cs",
+              "RelativeDocumentMoniker": "AlBarilWindow\\UI\\AdminUI\\ChangePassword.cs",
+              "ToolTip": "F:\\Waleed\\AlBarilWindow\\AlBarilWindow\\UI\\AdminUI\\ChangePassword.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2026-06-24T09:44:21.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "ChangePassword.cs",
+              "DocumentMoniker": "E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\AlBarilWindow\\UI\\AdminUI\\ChangePassword.cs",
+              "RelativeDocumentMoniker": "AlBarilWindow\\UI\\AdminUI\\ChangePassword.cs",
+              "ToolTip": "E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\AlBarilWindow\\UI\\AdminUI\\ChangePassword.cs",
+              "RelativeToolTip": "AlBarilWindow\\UI\\AdminUI\\ChangePassword.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2026-06-24T09:44:21.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "ChangeProfile.cs [Design]",
+              "DocumentMoniker": "E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\AlBarilWindow\\UI\\AdminUI\\ChangeProfile.cs",
+              "RelativeDocumentMoniker": "AlBarilWindow\\UI\\AdminUI\\ChangeProfile.cs",
+              "ToolTip": "F:\\Waleed\\AlBarilWindow\\AlBarilWindow\\UI\\AdminUI\\ChangeProfile.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2026-06-24T09:44:21.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "SeeSalesAmbassador.cs [Design]",
+              "DocumentMoniker": "E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\AlBarilWindow\\UI\\Ambassador1\\SeeSalesAmbassador.cs",
+              "RelativeDocumentMoniker": "AlBarilWindow\\UI\\Ambassador1\\SeeSalesAmbassador.cs",
+              "ToolTip": "F:\\Waleed\\AlBarilWindow\\AlBarilWindow\\UI\\Ambassador1\\SeeSalesAmbassador.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2026-06-24T09:44:21.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "SeeAnnouncement.cs",
+              "DocumentMoniker": "E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\AlBarilWindow\\UI\\Ambassador1\\SeeAnnouncement.cs",
+              "RelativeDocumentMoniker": "AlBarilWindow\\UI\\Ambassador1\\SeeAnnouncement.cs",
+              "ToolTip": "E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\AlBarilWindow\\UI\\Ambassador1\\SeeAnnouncement.cs",
+              "RelativeToolTip": "AlBarilWindow\\UI\\Ambassador1\\SeeAnnouncement.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAArwCEAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2026-06-24T09:44:21.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "SeeAnnouncement.cs [Design]",
+              "DocumentMoniker": "E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\AlBarilWindow\\UI\\Ambassador1\\SeeAnnouncement.cs",
+              "RelativeDocumentMoniker": "AlBarilWindow\\UI\\Ambassador1\\SeeAnnouncement.cs",
+              "ToolTip": "F:\\Waleed\\AlBarilWindow\\AlBarilWindow\\UI\\Ambassador1\\SeeAnnouncement.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2026-06-24T09:44:21.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "SeeSalesAmbassador.cs",
+              "DocumentMoniker": "E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\AlBarilWindow\\UI\\Ambassador1\\SeeSalesAmbassador.cs",
+              "RelativeDocumentMoniker": "AlBarilWindow\\UI\\Ambassador1\\SeeSalesAmbassador.cs",
+              "ToolTip": "E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\AlBarilWindow\\UI\\Ambassador1\\SeeSalesAmbassador.cs",
+              "RelativeToolTip": "AlBarilWindow\\UI\\Ambassador1\\SeeSalesAmbassador.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAArwB0AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2026-06-24T09:44:21.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "FeedbackAmbassador.cs [Design]",
+              "DocumentMoniker": "E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\AlBarilWindow\\UI\\Ambassador1\\FeedbackAmbassador.cs",
+              "RelativeDocumentMoniker": "AlBarilWindow\\UI\\Ambassador1\\FeedbackAmbassador.cs",
+              "ToolTip": "F:\\Waleed\\AlBarilWindow\\AlBarilWindow\\UI\\Ambassador1\\FeedbackAmbassador.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2026-06-24T09:44:21.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "FeedbackAmbassador.cs",
+              "DocumentMoniker": "E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\AlBarilWindow\\UI\\Ambassador1\\FeedbackAmbassador.cs",
+              "RelativeDocumentMoniker": "AlBarilWindow\\UI\\Ambassador1\\FeedbackAmbassador.cs",
+              "ToolTip": "E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\AlBarilWindow\\UI\\Ambassador1\\FeedbackAmbassador.cs",
+              "RelativeToolTip": "AlBarilWindow\\UI\\Ambassador1\\FeedbackAmbassador.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAvwCkAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2026-06-24T09:44:21.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "AdminMenu.cs",
+              "DocumentMoniker": "E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\AlBarilWindow\\UI\\AdminUI\\AdminMenu.cs",
+              "RelativeDocumentMoniker": "AlBarilWindow\\UI\\AdminUI\\AdminMenu.cs",
+              "ToolTip": "E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\AlBarilWindow\\UI\\AdminUI\\AdminMenu.cs",
+              "RelativeToolTip": "AlBarilWindow\\UI\\AdminUI\\AdminMenu.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAASwCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2026-06-24T09:44:21.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "ChangeProfile.cs",
+              "DocumentMoniker": "E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\AlBarilWindow\\UI\\AdminUI\\ChangeProfile.cs",
+              "RelativeDocumentMoniker": "AlBarilWindow\\UI\\AdminUI\\ChangeProfile.cs",
+              "ToolTip": "E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\AlBarilWindow\\UI\\AdminUI\\ChangeProfile.cs",
+              "RelativeToolTip": "AlBarilWindow\\UI\\AdminUI\\ChangeProfile.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAvwCQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2026-06-24T09:44:21.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "AddAmbassador.cs",
+              "DocumentMoniker": "E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\AlBarilWindow\\UI\\AdminUI\\AddAmbassador.cs",
+              "RelativeDocumentMoniker": "AlBarilWindow\\UI\\AdminUI\\AddAmbassador.cs",
+              "ToolTip": "E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\AlBarilWindow\\UI\\AdminUI\\AddAmbassador.cs",
+              "RelativeToolTip": "AlBarilWindow\\UI\\AdminUI\\AddAmbassador.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAvwBkAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2026-06-24T09:44:21.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\AlBarilWindow\\Program.cs",
+              "RelativeDocumentMoniker": "AlBarilWindow\\Program.cs",
+              "ToolTip": "E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\AlBarilWindow\\Program.cs",
+              "RelativeToolTip": "AlBarilWindow\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T09:44:21.528Z"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "49da3f40-b216-46ae-b59a-1795d23505e3",
+        "Display": 0,
+        "X": 96,
+        "Y": 72,
+        "Width": 1055,
+        "Height": 600,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EmployeeManager.cs [Design]",
+              "DocumentMoniker": "E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\AlBarilWindow\\UI\\Manager1\\EmployeeManager.cs",
+              "RelativeDocumentMoniker": "AlBarilWindow\\UI\\Manager1\\EmployeeManager.cs",
+              "ToolTip": "E:\\Study\\2nd Semester\\DB\\2023-CS-102\\AlBarilWindow\\AlBarilWindow\\UI\\Manager1\\EmployeeManager.cs [Design]",
+              "RelativeToolTip": "AlBarilWindow\\UI\\Manager1\\EmployeeManager.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-24T09:44:21.546Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

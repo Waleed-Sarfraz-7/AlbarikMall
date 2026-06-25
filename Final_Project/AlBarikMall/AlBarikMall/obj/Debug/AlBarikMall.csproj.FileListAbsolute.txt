@@ -1,0 +1,6 @@
+F:\Waleed\AlBarikMall\AlBarikMall\obj\Debug\AlBarikMall.csproj.AssemblyReference.cache
+F:\Waleed\AlBarikMall\AlBarikMall\obj\Debug\AlBarikMall.csproj.CoreCompileInputs.cache
+F:\Waleed\AlBarikMall\AlBarikMall\bin\Debug\AlBarikMall.dll
+F:\Waleed\AlBarikMall\AlBarikMall\bin\Debug\AlBarikMall.pdb
+F:\Waleed\AlBarikMall\AlBarikMall\obj\Debug\AlBarikMall.dll
+F:\Waleed\AlBarikMall\AlBarikMall\obj\Debug\AlBarikMall.pdb
